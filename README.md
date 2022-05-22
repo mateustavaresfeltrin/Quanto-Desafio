@@ -1,5 +1,7 @@
 # QA Automation Challenge
 
+[![qa-automation-challenge](https://img.shields.io/endpoint?url=https://dashboard.cypress.io/badge/detailed/ey2iyx/main&style=flat&logo=cypress)](https://dashboard.cypress.io/projects/ey2iyx/runs)
+
 ## Descrição:
 
 Parte da próxima etapa, será realizar a automação (frontend e backend) do serviço de Busca CEP dos Correios.
