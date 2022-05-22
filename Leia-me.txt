@@ -1,0 +1,15 @@
+Para cumprir o requisito não obrigatório para linguagem javascript utilizei o cypress
+
+Para executar o cypress:
+
+-> necessário ter o node.js instalado
+-> Acessar o diretório e executar o comando : npx cypress open
+
+
+Relatório: O relatório está vinculado com o repositorio
+-> Acesse via : https://dashboard.cypress.io/projects/ey2iyx/runs/1/overview
+
+
+Qualquer dúvida estou a disposição
+
+
